@@ -2,8 +2,7 @@
 
 **An enterprise knowledge chatbot built using RAG (Retrieval-Augmented Generation), Multi-Agent Architecture, and Generative AI.**
 
-> **Repository:** [kartheekbvs89-arch/Langchain](https://github.com/kartheekbvs89-arch/Langchain)  
-> **Live Demo (Frontend):** [GitHub Pages](https://kartheekbvs89-arch.github.io/Langchain/)  
+> 
 > **Status:** RAG backend and employee portal with role-based administration
 
 ---
